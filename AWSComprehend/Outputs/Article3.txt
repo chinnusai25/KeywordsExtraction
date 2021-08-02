@@ -1,0 +1,213 @@
+"KeyPhrases": [
+        {
+            "BeginOffset": 2,
+            "EndOffset": 14,
+            "Score": 0.9994741082191467,
+            "Text": "Lionel Messi"
+        },
+        {
+            "BeginOffset": 14,
+            "EndOffset": 26,
+            "Score": 0.9968185424804688,
+            "Text": "\u2019s Argentina"
+        },
+        {
+            "BeginOffset": 32,
+            "EndOffset": 42,
+            "Score": 0.979415237903595,
+            "Text": "Brazil 1-0"
+        },
+        {
+            "BeginOffset": 46,
+            "EndOffset": 54,
+            "Score": 0.9999721050262451,
+            "Text": "Saturday"
+        },
+        {
+            "BeginOffset": 54,
+            "EndOffset": 75,
+            "Score": 0.8692101836204529,
+            "Text": "\u2019s Copa America final"
+        },
+        {
+            "BeginOffset": 86,
+            "EndOffset": 103,
+            "Score": 0.9998635649681091,
+            "Text": "the national team"
+        },
+        {
+            "BeginOffset": 103,
+            "EndOffset": 117,
+            "Score": 0.9996892213821411,
+            "Text": "\u2019s first title"
+        },
+        {
+            "BeginOffset": 121,
+            "EndOffset": 129,
+            "Score": 0.9997745752334595,
+            "Text": "28 years"
+        },
+        {
+            "BeginOffset": 134,
+            "EndOffset": 147,
+            "Score": 0.9997767210006714,
+            "Text": "the superstar"
+        },
+        {
+            "BeginOffset": 147,
+            "EndOffset": 182,
+            "Score": 0.992596447467804,
+            "Text": "\u2019s first major international trophy"
+        },
+        {
+            "BeginOffset": 185,
+            "EndOffset": 194,
+            "Score": 0.9995837807655334,
+            "Text": "Argentina"
+        },
+        {
+            "BeginOffset": 194,
+            "EndOffset": 209,
+            "Score": 0.9971941709518433,
+            "Text": "\u2019s winning goal"
+        },
+        {
+            "BeginOffset": 213,
+            "EndOffset": 233,
+            "Score": 0.9997307658195496,
+            "Text": "the Maracana Stadium"
+        },
+        {
+            "BeginOffset": 237,
+            "EndOffset": 251,
+            "Score": 0.9998559951782227,
+            "Text": "Rio de Janeiro"
+        },
+        {
+            "BeginOffset": 260,
+            "EndOffset": 275,
+            "Score": 0.9995855689048767,
+            "Text": "the 22nd minute"
+        },
+        {
+            "BeginOffset": 282,
+            "EndOffset": 297,
+            "Score": 0.9998728036880493,
+            "Text": "Rodrigo de Paul"
+        },
+        {
+            "BeginOffset": 303,
+            "EndOffset": 314,
+            "Score": 0.9995859265327454,
+            "Text": "a long pass"
+        },
+        {
+            "BeginOffset": 318,
+            "EndOffset": 332,
+            "Score": 0.9994956254959106,
+            "Text": "Angel di Maria"
+        },
+        {
+            "BeginOffset": 334,
+            "EndOffset": 365,
+            "Score": 0.9999408721923828,
+            "Text": "The 33-year-old veteran striker"
+        },
+        {
+            "BeginOffset": 377,
+            "EndOffset": 398,
+            "Score": 0.8576266169548035,
+            "Text": "some sloppy defending"
+        },
+        {
+            "BeginOffset": 404,
+            "EndOffset": 424,
+            "Score": 0.9997984766960144,
+            "Text": "left-back Renan Lodi"
+        },
+        {
+            "BeginOffset": 433,
+            "EndOffset": 440,
+            "Score": 0.9938026666641235,
+            "Text": "control"
+        },
+        {
+            "BeginOffset": 457,
+            "EndOffset": 475,
+            "Score": 0.9830388426780701,
+            "Text": "goalkeeper Ederson"
+        },
+        {
+            "BeginOffset": 484,
+            "EndOffset": 503,
+            "Score": 0.7663419842720032,
+            "Text": "only the third goal"
+        },
+        {
+            "BeginOffset": 504,
+            "EndOffset": 510,
+            "Score": 0.6196295022964478,
+            "Text": "Brazil"
+        },
+        {
+            "BeginOffset": 523,
+            "EndOffset": 537,
+            "Score": 0.9999862313270569,
+            "Text": "the tournament"
+        },
+        {
+            "BeginOffset": 539,
+            "EndOffset": 545,
+            "Score": 0.9992015957832336,
+            "Text": "Neymar"
+        },
+        {
+            "BeginOffset": 562,
+            "EndOffset": 581,
+            "Score": 0.99751877784729,
+            "Text": "dribbles and passes"
+        },
+        {
+            "BeginOffset": 587,
+            "EndOffset": 598,
+            "Score": 0.9998440146446228,
+            "Text": "the Selecao"
+        },
+        {
+            "BeginOffset": 617,
+            "EndOffset": 655,
+            "Score": 0.9957320094108582,
+            "Text": "Argentina goalkeeper Emiliano Martinez"
+        }
+    ];
+
+[ 'the tournament',
+  'Saturday',
+  'The 33-year-old veteran striker',
+  'Rodrigo de Paul',
+  'the national team',
+  'Rio de Janeiro',
+  'the Selecao',
+  'left-back Renan Lodi',
+  'the superstar',
+  '28 years',
+  'the Maracana Stadium',
+  '’s first title',
+  'a long pass',
+  'the 22nd minute',
+  'Argentina',
+  'Angel di Maria',
+  'Lionel Messi',
+  'Neymar',
+  'dribbles and passes',
+  '’s winning goal',
+  '’s Argentina',
+  'Argentina goalkeeper Emiliano Martinez',
+  'control',
+  '’s first major international trophy',
+  'goalkeeper Ederson',
+  'Brazil 1-0',
+  '’s Copa America final',
+  'some sloppy defending',
+  'only the third goal',
+  'Brazil' ]

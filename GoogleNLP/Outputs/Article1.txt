@@ -1,0 +1,527 @@
+entities {
+  name: "Saikhom Mirabai Chanu"
+  type: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/011f2vld"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Saikhom_Mirabai_Chanu"
+  }
+  salience: 0.4522898197174072
+  mentions {
+    text {
+      content: "Saikhom Mirabai Chanu"
+      begin_offset: 100
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "job"
+  type: OTHER
+  salience: 0.11732079833745956
+  mentions {
+    text {
+      content: "job"
+      begin_offset: 4
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "dream"
+  type: OTHER
+  salience: 0.07860560715198517
+  mentions {
+    text {
+      content: "dream"
+      begin_offset: 21
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "podium finish"
+  type: OTHER
+  salience: 0.06942114233970642
+  mentions {
+    text {
+      content: "podium finish"
+      begin_offset: 43
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Tokyo Olympics"
+  type: EVENT
+  metadata {
+    key: "mid"
+    value: "/m/05gj2h"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/2020_Summer_Olympics"
+  }
+  salience: 0.06794152408838272
+  mentions {
+    text {
+      content: "Olympics"
+      begin_offset: 64
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "Tokyo Olympics"
+      begin_offset: 691
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "bronze"
+  type: OTHER
+  salience: 0.025259602814912796
+  mentions {
+    text {
+      content: "bronze"
+      begin_offset: 633
+    }
+    type: COMMON
+  }
+  mentions {
+    text {
+      content: "medal"
+      begin_offset: 678
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "weightlifting"
+  type: OTHER
+  salience: 0.014795583672821522
+  mentions {
+    text {
+      content: "weightlifting"
+      begin_offset: 180
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "silver medal"
+  type: OTHER
+  salience: 0.014146783389151096
+  mentions {
+    text {
+      content: "silver medal"
+      begin_offset: 353
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Karnam Malleswari"
+  type: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/03ngd9"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Karnam_Malleswari"
+  }
+  salience: 0.01408948004245758
+  mentions {
+    text {
+      content: "Karnam Malleswari"
+      begin_offset: 607
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "words"
+  type: OTHER
+  salience: 0.013007462956011295
+  mentions {
+    text {
+      content: "words"
+      begin_offset: 140
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "silver medal win"
+  type: EVENT
+  salience: 0.013007462956011295
+  mentions {
+    text {
+      content: "silver medal win"
+      begin_offset: 155
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "interaction"
+  type: OTHER
+  salience: 0.010076940059661865
+  mentions {
+    text {
+      content: "interaction"
+      begin_offset: 297
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "happiness"
+  type: OTHER
+  salience: 0.00988842360675335
+  mentions {
+    text {
+      content: "happiness"
+      begin_offset: 203
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Indian"
+  type: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/03rk0"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/India"
+  }
+  salience: 0.009266650304198265
+  mentions {
+    text {
+      content: "Indian"
+      begin_offset: 262
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "Indian"
+      begin_offset: 486
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "India"
+      begin_offset: 550
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "India"
+      begin_offset: 662
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "neck"
+  type: OTHER
+  salience: 0.008824949152767658
+  mentions {
+    text {
+      content: "neck"
+      begin_offset: 385
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "home"
+  type: LOCATION
+  salience: 0.008748248219490051
+  mentions {
+    text {
+      content: "home"
+      begin_offset: 280
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "media"
+  type: OTHER
+  salience: 0.008748248219490051
+  mentions {
+    text {
+      content: "media"
+      begin_offset: 269
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "history"
+  type: OTHER
+  salience: 0.008099336177110672
+  mentions {
+    text {
+      content: "history"
+      begin_offset: 456
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Tokyo."
+  type: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/07dfk"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Tokyo"
+  }
+  salience: 0.005456212442368269
+  mentions {
+    text {
+      content: "Tokyo."
+      begin_offset: 413
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "Sports Authority of India"
+  type: ORGANIZATION
+  metadata {
+    key: "mid"
+    value: "/m/076gj8"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Sports_Authority_of_India"
+  }
+  salience: 0.005242465529590845
+  mentions {
+    text {
+      content: "Sports Authority of India"
+      begin_offset: 322
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "Everyone"
+  type: PERSON
+  salience: 0.005118013359606266
+  mentions {
+    text {
+      content: "Everyone"
+      begin_offset: 707
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "interaction"
+  type: EVENT
+  salience: 0.004845319781452417
+  mentions {
+    text {
+      content: "interaction"
+      begin_offset: 771
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "dream"
+  type: OTHER
+  salience: 0.004845319781452417
+  mentions {
+    text {
+      content: "dream"
+      begin_offset: 730
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Manipur"
+  type: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/026mx4"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Manipur"
+  }
+  salience: 0.004793613683432341
+  mentions {
+    text {
+      content: "Manipur"
+      begin_offset: 440
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "medal"
+  type: OTHER
+  salience: 0.0044028074480593204
+  mentions {
+    text {
+      content: "medal"
+      begin_offset: 565
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "silver medal"
+  type: OTHER
+  salience: 0.0038095891941338778
+  mentions {
+    text {
+      content: "silver medal"
+      begin_offset: 515
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Sydney.It"
+  type: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/06y57"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Sydney"
+  }
+  salience: 0.003603539662435651
+  mentions {
+    text {
+      content: "Sydney.It"
+      begin_offset: 643
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "weightlifter"
+  type: PERSON
+  salience: 0.0032460768707096577
+  mentions {
+    text {
+      content: "weightlifter"
+      begin_offset: 493
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "sport"
+  type: OTHER
+  salience: 0.0030441635753959417
+  mentions {
+    text {
+      content: "sport"
+      begin_offset: 578
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Olympic Games"
+  type: EVENT
+  metadata {
+    key: "mid"
+    value: "/m/05nd_"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Olympic_Games"
+  }
+  salience: 0.001584920333698392
+  mentions {
+    text {
+      content: "Olympic Games"
+      begin_offset: 535
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "21"
+  type: NUMBER
+  metadata {
+    key: "value"
+    value: "21"
+  }
+  mentions {
+    text {
+      content: "21"
+      begin_offset: 589
+    }
+  }
+}
+entities {
+  name: "26"
+  type: NUMBER
+  metadata {
+    key: "value"
+    value: "26"
+  }
+  mentions {
+    text {
+      content: "26"
+      begin_offset: 423
+    }
+  }
+}
+entities {
+  name: "9.00"
+  type: NUMBER
+  metadata {
+    key: "value"
+    value: "9.000000"
+  }
+  mentions {
+    text {
+      content: "9.00"
+      begin_offset: 403
+    }
+  }
+}
+entities {
+  name: "49"
+  type: NUMBER
+  metadata {
+    key: "value"
+    value: "49"
+  }
+  mentions {
+    text {
+      content: "49"
+      begin_offset: 175
+    }
+  }
+}
+language: "en"
+
+
+['Saikhom Mirabai Chanu', 'Tokyo Olympics', 'Karnam Malleswari', 'silver medal win', 'Indian', 'home', 'Tokyo.', 'Sports Authority of India', 'Everyone', 'interaction', 'Manipur', 'Sydney.It', 'weightlifter', 'Olympic Games']

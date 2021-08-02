@@ -1,0 +1,171 @@
+ "KeyPhrases": [
+        {
+            "BeginOffset": 2,
+            "EndOffset": 8,
+            "Score": 0.9986003041267395,
+            "Text": "Amazon"
+        },
+        {
+            "BeginOffset": 19,
+            "EndOffset": 24,
+            "Score": 0.9995456337928772,
+            "Text": "users"
+        },
+        {
+            "BeginOffset": 35,
+            "EndOffset": 51,
+            "Score": 0.9997630715370178,
+            "Text": "cryptocurrencies"
+        },
+        {
+            "BeginOffset": 57,
+            "EndOffset": 64,
+            "Score": 0.999669075012207,
+            "Text": "Bitcoin"
+        },
+        {
+            "BeginOffset": 73,
+            "EndOffset": 93,
+            "Score": 0.9999579787254333,
+            "Text": "the e-commerce giant"
+        },
+        {
+            "BeginOffset": 104,
+            "EndOffset": 150,
+            "Score": 0.9723725318908691,
+            "Text": "a digital currency and blockchain product lead"
+        },
+        {
+            "BeginOffset": 155,
+            "EndOffset": 172,
+            "Score": 0.9983912110328674,
+            "Text": "its payments team"
+        },
+        {
+            "BeginOffset": 188,
+            "EndOffset": 208,
+            "Score": 0.9965425729751587,
+            "Text": "a latest job listing"
+        },
+        {
+            "BeginOffset": 210,
+            "EndOffset": 216,
+            "Score": 0.9998086094856262,
+            "Text": "Amazon"
+        },
+        {
+            "BeginOffset": 219,
+            "EndOffset": 256,
+            "Score": 0.9903459548950195,
+            "Text": "Payments Acceptance & Experience team"
+        },
+        {
+            "BeginOffset": 269,
+            "EndOffset": 298,
+            "Score": 0.9991453886032104,
+            "Text": "an experienced product leader"
+        },
+        {
+            "BeginOffset": 310,
+            "EndOffset": 316,
+            "Score": 0.9998989105224609,
+            "Text": "Amazon"
+        },
+        {
+            "BeginOffset": 319,
+            "EndOffset": 379,
+            "Score": 0.8387444615364075,
+            "Text": "Digital Currency and Blockchain strategy and product roadmap"
+        },
+        {
+            "BeginOffset": 402,
+            "EndOffset": 423,
+            "Score": 0.9996936917304993,
+            "Text": "your domain expertise"
+        },
+        {
+            "BeginOffset": 427,
+            "EndOffset": 437,
+            "Score": 0.9991676807403564,
+            "Text": "Blockchain"
+        },
+        {
+            "BeginOffset": 439,
+            "EndOffset": 457,
+            "Score": 0.9389439821243286,
+            "Text": "Distributed Ledger"
+        },
+        {
+            "BeginOffset": 459,
+            "EndOffset": 490,
+            "Score": 0.9967389106750488,
+            "Text": "Central Bank Digital Currencies"
+        },
+        {
+            "BeginOffset": 495,
+            "EndOffset": 509,
+            "Score": 0.9113681316375732,
+            "Text": "Cryptocurrency"
+        },
+        {
+            "BeginOffset": 521,
+            "EndOffset": 529,
+            "Score": 0.9997960329055786,
+            "Text": "the case"
+        },
+        {
+            "BeginOffset": 534,
+            "EndOffset": 550,
+            "Score": 0.999884843826294,
+            "Text": "the capabilities"
+        },
+        {
+            "BeginOffset": 584,
+            "EndOffset": 619,
+            "Score": 0.9903453588485718,
+            "Text": "overall vision and product strategy"
+        },
+        {
+            "BeginOffset": 630,
+            "EndOffset": 662,
+            "Score": 0.9645812511444092,
+            "Text": "leadership buy-in and investment"
+        },
+        {
+            "BeginOffset": 667,
+            "EndOffset": 683,
+            "Score": 0.9999087452888489,
+            "Text": "new capabilities"
+        },
+        {
+            "BeginOffset": 686,
+            "EndOffset": 697,
+            "Score": 0.9999377727508545,
+            "Text": "the company"
+        }
+    ];
+
+[ 'the e-commerce giant',
+  'the company',
+  'new capabilities',
+  'Amazon',
+  'the capabilities',
+  'Amazon',
+  'the case',
+  'cryptocurrencies',
+  'your domain expertise',
+  'Bitcoin',
+  'users',
+  'Blockchain',
+  'an experienced product leader',
+  'Amazon',
+  'its payments team',
+  'Central Bank Digital Currencies',
+  'a latest job listing',
+  'Payments Acceptance & Experience team',
+  'overall vision and product strategy',
+  'a digital currency and blockchain product lead',
+  'leadership buy-in and investment',
+  'Distributed Ledger',
+  'Cryptocurrency',
+  'Digital Currency and Blockchain strategy and product roadmap' ]

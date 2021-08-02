@@ -1,0 +1,255 @@
+    "KeyPhrases": [
+        {
+            "BeginOffset": 2,
+            "EndOffset": 9,
+            "Score": 0.9998576641082764,
+            "Text": "The job"
+        },
+        {
+            "BeginOffset": 19,
+            "EndOffset": 28,
+            "Score": 0.9999358654022217,
+            "Text": "the dream"
+        },
+        {
+            "BeginOffset": 41,
+            "EndOffset": 56,
+            "Score": 0.9699821472167969,
+            "Text": "a podium finish"
+        },
+        {
+            "BeginOffset": 60,
+            "EndOffset": 72,
+            "Score": 0.9998390078544617,
+            "Text": "the Olympics"
+        },
+        {
+            "BeginOffset": 85,
+            "EndOffset": 121,
+            "Score": 0.9964483380317688,
+            "Text": "the diminutive Saikhom Mirabai Chanu"
+        },
+        {
+            "BeginOffset": 140,
+            "EndOffset": 145,
+            "Score": 0.999821126461029,
+            "Text": "words"
+        },
+        {
+            "BeginOffset": 151,
+            "EndOffset": 171,
+            "Score": 0.9351736307144165,
+            "Text": "her silver medal win"
+        },
+        {
+            "BeginOffset": 175,
+            "EndOffset": 193,
+            "Score": 0.9562586545944214,
+            "Text": "49kg weightlifting"
+        },
+        {
+            "BeginOffset": 199,
+            "EndOffset": 212,
+            "Score": 0.9999257922172546,
+            "Text": "the happiness"
+        },
+        {
+            "BeginOffset": 253,
+            "EndOffset": 274,
+            "Score": 0.9994985461235046,
+            "Text": "an eager Indian media"
+        },
+        {
+            "BeginOffset": 280,
+            "EndOffset": 293,
+            "Score": 0.6999610662460327,
+            "Text": "home courtesy"
+        },
+        {
+            "BeginOffset": 294,
+            "EndOffset": 308,
+            "Score": 0.9975309371948242,
+            "Text": "an interaction"
+        },
+        {
+            "BeginOffset": 322,
+            "EndOffset": 338,
+            "Score": 0.9972442984580994,
+            "Text": "Sports Authority"
+        },
+        {
+            "BeginOffset": 342,
+            "EndOffset": 347,
+            "Score": 0.9999181032180786,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 349,
+            "EndOffset": 365,
+            "Score": 0.9999651312828064,
+            "Text": "The silver medal"
+        },
+        {
+            "BeginOffset": 381,
+            "EndOffset": 389,
+            "Score": 0.999872624874115,
+            "Text": "her neck"
+        },
+        {
+            "BeginOffset": 403,
+            "EndOffset": 409,
+            "Score": 0.9314926266670227,
+            "Text": "9.00pm"
+        },
+        {
+            "BeginOffset": 413,
+            "EndOffset": 418,
+            "Score": 0.9998582601547241,
+            "Text": "Tokyo"
+        },
+        {
+            "BeginOffset": 421,
+            "EndOffset": 436,
+            "Score": 0.9881866574287415,
+            "Text": "The 26-year-old"
+        },
+        {
+            "BeginOffset": 442,
+            "EndOffset": 449,
+            "Score": 0.9994932413101196,
+            "Text": "Manipur"
+        },
+        {
+            "BeginOffset": 458,
+            "EndOffset": 465,
+            "Score": 0.9986838698387146,
+            "Text": "history"
+        },
+        {
+            "BeginOffset": 478,
+            "EndOffset": 507,
+            "Score": 0.9996306896209717,
+            "Text": "the first Indian weightlifter"
+        },
+        {
+            "BeginOffset": 515,
+            "EndOffset": 529,
+            "Score": 0.9999714493751526,
+            "Text": "a silver medal"
+        },
+        {
+            "BeginOffset": 533,
+            "EndOffset": 550,
+            "Score": 0.999981164932251,
+            "Text": "the Olympic Games"
+        },
+        {
+            "BeginOffset": 552,
+            "EndOffset": 557,
+            "Score": 0.9999394416809082,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 557,
+            "EndOffset": 570,
+            "Score": 0.9998875856399536,
+            "Text": "\u2019s last medal"
+        },
+        {
+            "BeginOffset": 574,
+            "EndOffset": 583,
+            "Score": 0.9999701380729675,
+            "Text": "the sport"
+        },
+        {
+            "BeginOffset": 589,
+            "EndOffset": 597,
+            "Score": 0.9999173283576965,
+            "Text": "21 years"
+        },
+        {
+            "BeginOffset": 607,
+            "EndOffset": 624,
+            "Score": 0.9999841451644897,
+            "Text": "Karnam Malleswari"
+        },
+        {
+            "BeginOffset": 629,
+            "EndOffset": 639,
+            "Score": 0.9998837113380432,
+            "Text": "the bronze"
+        },
+        {
+            "BeginOffset": 643,
+            "EndOffset": 649,
+            "Score": 0.9999333620071411,
+            "Text": "Sydney"
+        },
+        {
+            "BeginOffset": 664,
+            "EndOffset": 669,
+            "Score": 0.9996204376220703,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 669,
+            "EndOffset": 683,
+            "Score": 0.9998161792755127,
+            "Text": "\u2019s first medal"
+        },
+        {
+            "BeginOffset": 687,
+            "EndOffset": 705,
+            "Score": 0.9999528527259827,
+            "Text": "the Tokyo Olympics"
+        },
+        {
+            "BeginOffset": 727,
+            "EndOffset": 736,
+            "Score": 0.9999051094055176,
+            "Text": "the dream"
+        },
+        {
+            "BeginOffset": 769,
+            "EndOffset": 784,
+            "Score": 0.9999703764915466,
+            "Text": "the interaction"
+        }
+    ];
+
+[ 'Karnam Malleswari',
+  'the Olympic Games',
+  'a silver medal',
+  'the interaction',
+  'the sport',
+  'The silver medal',
+  'the Tokyo Olympics',
+  'India',
+  'the dream',
+  'Sydney',
+  'the happiness',
+  'India',
+  '21 years',
+  'the dream',
+  '’s last medal',
+  'the bronze',
+  'her neck',
+  'Tokyo',
+  'The job',
+  'the Olympics',
+  'words',
+  '’s first medal',
+  'the first Indian weightlifter',
+  'India',
+  'an eager Indian media',
+  'Manipur',
+  'history',
+  'an interaction',
+  'Sports Authority',
+  'the diminutive Saikhom Mirabai Chanu',
+  'The 26-year-old',
+  'a podium finish',
+  '49kg weightlifting',
+  'her silver medal win',
+  '9.00pm',
+  'home courtesy' ]

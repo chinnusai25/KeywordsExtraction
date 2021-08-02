@@ -1,0 +1,444 @@
+entities {
+  name: "Amazon"
+  type: ORGANIZATION
+  metadata {
+    key: "mid"
+    value: "/m/0mgkg"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Amazon_(company)"
+  }
+  salience: 0.12285782396793365
+  mentions {
+    text {
+      content: "Amazon"
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "Amazon"
+      begin_offset: 206
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "Amazon"
+      begin_offset: 305
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "product lead"
+  type: OTHER
+  salience: 0.09759978950023651
+  mentions {
+    text {
+      content: "product lead"
+      begin_offset: 136
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "cryptocurrencies"
+  type: OTHER
+  salience: 0.09241317212581635
+  mentions {
+    text {
+      content: "cryptocurrencies"
+      begin_offset: 33
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "e-commerce giant"
+  type: ORGANIZATION
+  salience: 0.06919962167739868
+  mentions {
+    text {
+      content: "e-commerce giant"
+      begin_offset: 75
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "users"
+  type: PERSON
+  salience: 0.06838356703519821
+  mentions {
+    text {
+      content: "users"
+      begin_offset: 17
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "capabilities"
+  type: OTHER
+  salience: 0.05909821763634682
+  mentions {
+    text {
+      content: "capabilities"
+      begin_offset: 529
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Bitcoin"
+  type: OTHER
+  metadata {
+    key: "mid"
+    value: "/m/05p0rrx"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Bitcoin"
+  }
+  salience: 0.04911467060446739
+  mentions {
+    text {
+      content: "Bitcoin"
+      begin_offset: 55
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "currency"
+  type: OTHER
+  salience: 0.039440106600522995
+  mentions {
+    text {
+      content: "currency"
+      begin_offset: 112
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "blockchain"
+  type: OTHER
+  salience: 0.039440106600522995
+  mentions {
+    text {
+      content: "blockchain"
+      begin_offset: 125
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "payments"
+  type: OTHER
+  salience: 0.03603583946824074
+  mentions {
+    text {
+      content: "payments"
+      begin_offset: 157
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "product leader"
+  type: OTHER
+  salience: 0.027103714644908905
+  mentions {
+    text {
+      content: "product leader"
+      begin_offset: 279
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "product"
+  type: CONSUMER_GOOD
+  salience: 0.026712290942668915
+  mentions {
+    text {
+      content: "product"
+      begin_offset: 359
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "strategy"
+  type: OTHER
+  salience: 0.024749794974923134
+  mentions {
+    text {
+      content: "strategy"
+      begin_offset: 346
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "domain expertise"
+  type: OTHER
+  salience: 0.022730091586709023
+  mentions {
+    text {
+      content: "domain expertise"
+      begin_offset: 398
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "team"
+  type: ORGANIZATION
+  salience: 0.021507559344172478
+  mentions {
+    text {
+      content: "team"
+      begin_offset: 248
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "job listing"
+  type: OTHER
+  salience: 0.021507559344172478
+  mentions {
+    text {
+      content: "job listing"
+      begin_offset: 193
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "product"
+  type: CONSUMER_GOOD
+  salience: 0.020193377509713173
+  mentions {
+    text {
+      content: "product"
+      begin_offset: 594
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Blockchain"
+  type: OTHER
+  metadata {
+    key: "mid"
+    value: "/m/0_1fcmj"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Blockchain.com"
+  }
+  salience: 0.017307687550783157
+  mentions {
+    text {
+      content: "Blockchain"
+      begin_offset: 335
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "Blockchain"
+      begin_offset: 418
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "strategy"
+  type: OTHER
+  salience: 0.017173904925584793
+  mentions {
+    text {
+      content: "strategy"
+      begin_offset: 602
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Digital Currency"
+  type: OTHER
+  metadata {
+    key: "mid"
+    value: "/m/0r8lyw7"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Digital_currency"
+  }
+  salience: 0.016106335446238518
+  mentions {
+    text {
+      content: "Digital Currency"
+      begin_offset: 314
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "vision"
+  type: OTHER
+  salience: 0.015099427662789822
+  mentions {
+    text {
+      content: "vision"
+      begin_offset: 583
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "leadership"
+  type: OTHER
+  salience: 0.013203121721744537
+  mentions {
+    text {
+      content: "leadership"
+      begin_offset: 621
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Payments Acceptance & Experience"
+  type: OTHER
+  salience: 0.012765028513967991
+  mentions {
+    text {
+      content: "Payments Acceptance & Experience"
+      begin_offset: 215
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "company"
+  type: ORGANIZATION
+  salience: 0.0124164167791605
+  mentions {
+    text {
+      content: "company"
+      begin_offset: 680
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "capabilities"
+  type: OTHER
+  salience: 0.012048520147800446
+  mentions {
+    text {
+      content: "capabilities"
+      begin_offset: 662
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Distributed Ledger"
+  type: OTHER
+  metadata {
+    key: "mid"
+    value: "/g/11cn6flkr3"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Distributed_ledger"
+  }
+  salience: 0.011861400678753853
+  mentions {
+    text {
+      content: "Distributed Ledger"
+      begin_offset: 430
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "investment"
+  type: OTHER
+  salience: 0.010589594952762127
+  mentions {
+    text {
+      content: "investment"
+      begin_offset: 643
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Currencies"
+  type: OTHER
+  salience: 0.008289759047329426
+  mentions {
+    text {
+      content: "Currencies"
+      begin_offset: 471
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "case"
+  type: OTHER
+  salience: 0.006645324174314737
+  mentions {
+    text {
+      content: "case"
+      begin_offset: 516
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Cryptocurrency"
+  type: OTHER
+  metadata {
+    key: "mid"
+    value: "/m/0vpj4_b"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Cryptocurrency"
+  }
+  salience: 0.00447499705478549
+  mentions {
+    text {
+      content: "Cryptocurrency"
+      begin_offset: 486
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "Central Bank"
+  type: ORGANIZATION
+  salience: 0.003931181505322456
+  mentions {
+    text {
+      content: "Central Bank"
+      begin_offset: 450
+    }
+    type: PROPER
+  }
+}
+language: "en"
+
+
+['Amazon', 'e-commerce giant', 'users', 'product', 'team', 'product', 'company', 'Central Bank']

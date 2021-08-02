@@ -1,0 +1,506 @@
+entities {
+  name: "Argentina"
+  type: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0jgd"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Argentina"
+  }
+  salience: 0.21416954696178436
+  mentions {
+    text {
+      content: "Argentina"
+      begin_offset: 17
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "Argentina"
+      begin_offset: 189
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "Argentina"
+      begin_offset: 623
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "final"
+  type: EVENT
+  salience: 0.12058555334806442
+  mentions {
+    text {
+      content: "final"
+      begin_offset: 72
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Brazil"
+  type: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/01352_"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Brazil_national_football_team"
+  }
+  salience: 0.07761261612176895
+  mentions {
+    text {
+      content: "Brazil"
+      begin_offset: 32
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "Brazil"
+      begin_offset: 510
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "Selecao"
+      begin_offset: 597
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "Lionel Messi"
+  type: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/06qjgc"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Lionel_Messi"
+  }
+  salience: 0.07274040579795837
+  mentions {
+    text {
+      content: "Lionel Messi"
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "Copa America"
+  type: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/01l5y1"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Copa_Am\303\251rica"
+  }
+  salience: 0.07274040579795837
+  mentions {
+    text {
+      content: "Copa America"
+      begin_offset: 59
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "goal"
+  type: OTHER
+  salience: 0.04927564412355423
+  mentions {
+    text {
+      content: "goal"
+      begin_offset: 211
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "team"
+  type: ORGANIZATION
+  salience: 0.04705347865819931
+  mentions {
+    text {
+      content: "team"
+      begin_offset: 101
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "title"
+  type: OTHER
+  salience: 0.04705347865819931
+  mentions {
+    text {
+      content: "title"
+      begin_offset: 116
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "superstar"
+  type: PERSON
+  salience: 0.04705347865819931
+  mentions {
+    text {
+      content: "superstar"
+      begin_offset: 142
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "goal"
+  type: OTHER
+  salience: 0.03813758119940758
+  mentions {
+    text {
+      content: "goal"
+      begin_offset: 505
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "pass"
+  type: OTHER
+  salience: 0.03673389554023743
+  mentions {
+    text {
+      content: "pass"
+      begin_offset: 316
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Rodrigo de Paul"
+  type: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/0ztkjrd"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Rodrigo_De_Paul"
+  }
+  salience: 0.019199173897504807
+  mentions {
+    text {
+      content: "Rodrigo de Paul"
+      begin_offset: 288
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "Rio de Janeiro"
+  type: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/06gmr"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Rio_de_Janeiro"
+  }
+  salience: 0.01896600052714348
+  mentions {
+    text {
+      content: "Rio de Janeiro"
+      begin_offset: 243
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "Maracana Stadium"
+  type: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/01qv4y"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Maracan\303\243_Stadium"
+  }
+  salience: 0.01896600052714348
+  mentions {
+    text {
+      content: "Maracana Stadium"
+      begin_offset: 223
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "Angel di Maria"
+  type: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/027pnw2"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/\303\201ngel_Di_Mar\303\255a"
+  }
+  salience: 0.017624814063310623
+  mentions {
+    text {
+      content: "Angel di Maria"
+      begin_offset: 324
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "Emiliano Martinez"
+  type: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/0jt370x"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Emiliano_Mart\303\255nez"
+  }
+  salience: 0.015058012679219246
+  mentions {
+    text {
+      content: "Emiliano Martinez"
+      begin_offset: 644
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "goalkeeper"
+      begin_offset: 633
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "striker"
+  type: PERSON
+  salience: 0.014322562143206596
+  mentions {
+    text {
+      content: "striker"
+      begin_offset: 364
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "control"
+  type: OTHER
+  salience: 0.013838396407663822
+  mentions {
+    text {
+      content: "control"
+      begin_offset: 439
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "tournament"
+  type: EVENT
+  salience: 0.010751391761004925
+  mentions {
+    text {
+      content: "tournament"
+      begin_offset: 533
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Renan Lodi"
+  type: PERSON
+  metadata {
+    key: "mid"
+    value: "/g/11f6gjfpvy"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Renan_Lodi"
+  }
+  salience: 0.010644993744790554
+  mentions {
+    text {
+      content: "Renan Lodi"
+      begin_offset: 420
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "left-back"
+      begin_offset: 410
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Ederson"
+  type: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/0pvxc71"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Ederson_(footballer,_born_1993)"
+  }
+  salience: 0.010644993744790554
+  mentions {
+    text {
+      content: "Ederson"
+      begin_offset: 474
+    }
+    type: PROPER
+  }
+  mentions {
+    text {
+      content: "goalkeeper"
+      begin_offset: 463
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "passes"
+  type: OTHER
+  salience: 0.00854253675788641
+  mentions {
+    text {
+      content: "passes"
+      begin_offset: 581
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "dribbles"
+  type: OTHER
+  salience: 0.0075055076740682125
+  mentions {
+    text {
+      content: "dribbles"
+      begin_offset: 568
+    }
+    type: COMMON
+  }
+}
+entities {
+  name: "Neymar"
+  type: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/03m5111"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Neymar"
+  }
+  salience: 0.00634024478495121
+  mentions {
+    text {
+      content: "Neymar"
+      begin_offset: 545
+    }
+    type: PROPER
+  }
+}
+entities {
+  name: "22"
+  type: NUMBER
+  metadata {
+    key: "value"
+    value: "22"
+  }
+  mentions {
+    text {
+      content: "22"
+      begin_offset: 270
+    }
+  }
+}
+entities {
+  name: "0"
+  type: NUMBER
+  metadata {
+    key: "value"
+    value: "0"
+  }
+  mentions {
+    text {
+      content: "0"
+      begin_offset: 41
+    }
+  }
+}
+entities {
+  name: "1"
+  type: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "1"
+      begin_offset: 39
+    }
+  }
+}
+entities {
+  name: "28"
+  type: NUMBER
+  metadata {
+    key: "value"
+    value: "28"
+  }
+  mentions {
+    text {
+      content: "28"
+      begin_offset: 125
+    }
+  }
+}
+entities {
+  name: "33"
+  type: NUMBER
+  metadata {
+    key: "value"
+    value: "33"
+  }
+  mentions {
+    text {
+      content: "33"
+      begin_offset: 344
+    }
+  }
+}
+language: "en"
+
+
+['Argentina', 'final', 'Brazil', 'Lionel Messi', 'Copa America', 'team', 'superstar', 'Rodrigo de Paul', 'Rio de Janeiro', 'Maracana Stadium', 'Angel di Maria', 'Emiliano Martinez', 'striker', 'tournament', 'Renan Lodi', 'Ederson', 'Neymar']
