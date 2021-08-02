@@ -1,0 +1,500 @@
+"KeyPhrases": [
+        {
+            "BeginOffset": 3,
+            "EndOffset": 11,
+            "Score": 0.9999991059303284,
+            "Text": "this day"
+        },
+        {
+            "BeginOffset": 15,
+            "EndOffset": 19,
+            "Score": 0.9999998807907104,
+            "Text": "2011"
+        },
+        {
+            "BeginOffset": 21,
+            "EndOffset": 26,
+            "Score": 0.9999938011169434,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 31,
+            "EndOffset": 44,
+            "Score": 0.999999463558197,
+            "Text": "the World Cup"
+        },
+        {
+            "BeginOffset": 48,
+            "EndOffset": 57,
+            "Score": 0.9992515444755554,
+            "Text": "home soil"
+        },
+        {
+            "BeginOffset": 66,
+            "EndOffset": 84,
+            "Score": 1.0,
+            "Text": "the entire country"
+        },
+        {
+            "BeginOffset": 90,
+            "EndOffset": 98,
+            "Score": 0.9999974966049194,
+            "Text": "euphoria"
+        },
+        {
+            "BeginOffset": 100,
+            "EndOffset": 105,
+            "Score": 0.9999978542327881,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 128,
+            "EndOffset": 145,
+            "Score": 1.0,
+            "Text": "the prized trophy"
+        },
+        {
+            "BeginOffset": 149,
+            "EndOffset": 153,
+            "Score": 0.9999984502792358,
+            "Text": "1983"
+        },
+        {
+            "BeginOffset": 170,
+            "EndOffset": 181,
+            "Score": 0.9999998211860657,
+            "Text": "a long time"
+        },
+        {
+            "BeginOffset": 212,
+            "EndOffset": 220,
+            "Score": 0.9999998211860657,
+            "Text": "MS Dhoni"
+        },
+        {
+            "BeginOffset": 222,
+            "EndOffset": 227,
+            "Score": 0.9999798536300659,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 239,
+            "EndOffset": 269,
+            "Score": 0.9999942183494568,
+            "Text": "their second ODI title triumph"
+        },
+        {
+            "BeginOffset": 281,
+            "EndOffset": 290,
+            "Score": 0.9999876022338867,
+            "Text": "Sri Lanka"
+        },
+        {
+            "BeginOffset": 294,
+            "EndOffset": 303,
+            "Score": 0.9999587535858154,
+            "Text": "the final"
+        },
+        {
+            "BeginOffset": 307,
+            "EndOffset": 327,
+            "Score": 0.999999463558197,
+            "Text": "the Wankhede Stadium"
+        },
+        {
+            "BeginOffset": 331,
+            "EndOffset": 337,
+            "Score": 0.9999125003814697,
+            "Text": "Mumbai"
+        },
+        {
+            "BeginOffset": 341,
+            "EndOffset": 354,
+            "Score": 0.9999998211860657,
+            "Text": "April 2, 2011"
+        },
+        {
+            "BeginOffset": 356,
+            "EndOffset": 364,
+            "Score": 0.9999370574951172,
+            "Text": "That day"
+        },
+        {
+            "BeginOffset": 388,
+            "EndOffset": 408,
+            "Score": 0.999998152256012,
+            "Text": "many magical moments"
+        },
+        {
+            "BeginOffset": 412,
+            "EndOffset": 426,
+            "Score": 0.9994986653327942,
+            "Text": "Gautam Gambhir"
+        },
+        {
+            "BeginOffset": 429,
+            "EndOffset": 444,
+            "Score": 0.9999316334724426,
+            "Text": "brilliant knock"
+        },
+        {
+            "BeginOffset": 446,
+            "EndOffset": 451,
+            "Score": 0.9999558925628662,
+            "Text": "Dhoni"
+        },
+        {
+            "BeginOffset": 454,
+            "EndOffset": 464,
+            "Score": 0.9980975985527039,
+            "Text": "iconic six"
+        },
+        {
+            "BeginOffset": 466,
+            "EndOffset": 482,
+            "Score": 0.9998196363449097,
+            "Text": "Sachin Tendulkar"
+        },
+        {
+            "BeginOffset": 504,
+            "EndOffset": 514,
+            "Score": 0.9999973177909851,
+            "Text": "the ground"
+        },
+        {
+            "BeginOffset": 518,
+            "EndOffset": 531,
+            "Score": 0.9999991059303284,
+            "Text": "his teammates"
+        },
+        {
+            "BeginOffset": 541,
+            "EndOffset": 555,
+            "Score": 0.9684708118438721,
+            "Text": "a few.ri Lanka"
+        },
+        {
+            "BeginOffset": 564,
+            "EndOffset": 569,
+            "Score": 0.9970646500587463,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 570,
+            "EndOffset": 584,
+            "Score": 0.9998533129692078,
+            "Text": "a stiff target"
+        },
+        {
+            "BeginOffset": 590,
+            "EndOffset": 608,
+            "Score": 0.9999992251396179,
+            "Text": "Mahela Jayawardene"
+        },
+        {
+            "BeginOffset": 611,
+            "EndOffset": 627,
+            "Score": 0.9999833703041077,
+            "Text": "unbeaten century"
+        },
+        {
+            "BeginOffset": 647,
+            "EndOffset": 650,
+            "Score": 0.9795916676521301,
+            "Text": "274"
+        },
+        {
+            "BeginOffset": 660,
+            "EndOffset": 686,
+            "Score": 0.9968721270561218,
+            "Text": "Thisara Pereras late blitz"
+        },
+        {
+            "BeginOffset": 690,
+            "EndOffset": 692,
+            "Score": 0.9998058676719666,
+            "Text": "22"
+        },
+        {
+            "BeginOffset": 697,
+            "EndOffset": 704,
+            "Score": 0.9767926335334778,
+            "Text": "9 balls"
+        },
+        {
+            "BeginOffset": 715,
+            "EndOffset": 726,
+            "Score": 0.9999265074729919,
+            "Text": "the Lankans"
+        },
+        {
+            "BeginOffset": 727,
+            "EndOffset": 739,
+            "Score": 0.9999983906745911,
+            "Text": "the momentum"
+        },
+        {
+            "BeginOffset": 751,
+            "EndOffset": 768,
+            "Score": 0.9473661780357361,
+            "Text": "Indias chase.ndia"
+        },
+        {
+            "BeginOffset": 780,
+            "EndOffset": 804,
+            "Score": 0.9999929070472717,
+            "Text": "the worst possible start"
+        },
+        {
+            "BeginOffset": 810,
+            "EndOffset": 825,
+            "Score": 0.999998927116394,
+            "Text": "Virender Sehwag"
+        },
+        {
+            "BeginOffset": 839,
+            "EndOffset": 847,
+            "Score": 0.9991983771324158,
+            "Text": "pavilion"
+        },
+        {
+            "BeginOffset": 851,
+            "EndOffset": 866,
+            "Score": 0.9999997615814209,
+            "Text": "the second ball"
+        },
+        {
+            "BeginOffset": 868,
+            "EndOffset": 904,
+            "Score": 0.9999116063117981,
+            "Text": "His opening partner Sachin Tendulkar"
+        },
+        {
+            "BeginOffset": 965,
+            "EndOffset": 972,
+            "Score": 0.999667763710022,
+            "Text": "the 7th"
+        },
+        {
+            "BeginOffset": 985,
+            "EndOffset": 990,
+            "Score": 0.9999909400939941,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 994,
+            "EndOffset": 1010,
+            "Score": 0.9999982118606567,
+            "Text": "the backfoot.But"
+        },
+        {
+            "BeginOffset": 1011,
+            "EndOffset": 1032,
+            "Score": 0.9999986886978149,
+            "Text": "an 83-run partnership"
+        },
+        {
+            "BeginOffset": 1041,
+            "EndOffset": 1055,
+            "Score": 0.9999998807907104,
+            "Text": "Gautam Gambhir"
+        },
+        {
+            "BeginOffset": 1060,
+            "EndOffset": 1071,
+            "Score": 0.9999987483024597,
+            "Text": "Virat Kohli"
+        },
+        {
+            "BeginOffset": 1081,
+            "EndOffset": 1086,
+            "Score": 0.9999706745147705,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 1114,
+            "EndOffset": 1131,
+            "Score": 0.9999995231628418,
+            "Text": "the contest.After"
+        },
+        {
+            "BeginOffset": 1132,
+            "EndOffset": 1137,
+            "Score": 0.9999998807907104,
+            "Text": "Kohli"
+        },
+        {
+            "BeginOffset": 1140,
+            "EndOffset": 1149,
+            "Score": 0.9999997615814209,
+            "Text": "dismissal"
+        },
+        {
+            "BeginOffset": 1151,
+            "EndOffset": 1156,
+            "Score": 0.9999994039535522,
+            "Text": "Dhoni"
+        },
+        {
+            "BeginOffset": 1183,
+            "EndOffset": 1190,
+            "Score": 0.9999998807907104,
+            "Text": "Gambhir"
+        },
+        {
+            "BeginOffset": 1198,
+            "EndOffset": 1213,
+            "Score": 0.9999932050704956,
+            "Text": "a 109-run stand"
+        },
+        {
+            "BeginOffset": 1222,
+            "EndOffset": 1227,
+            "Score": 0.9999897480010986,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 1232,
+            "EndOffset": 1237,
+            "Score": 0.6758900284767151,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 1245,
+            "EndOffset": 1262,
+            "Score": 0.9653750061988831,
+            "Text": "touching distance"
+        },
+        {
+            "BeginOffset": 1264,
+            "EndOffset": 1271,
+            "Score": 0.9999996423721313,
+            "Text": "Gambhir"
+        },
+        {
+            "BeginOffset": 1292,
+            "EndOffset": 1310,
+            "Score": 0.999994158744812,
+            "Text": "a deserved century"
+        },
+        {
+            "BeginOffset": 1325,
+            "EndOffset": 1335,
+            "Score": 0.9847663640975952,
+            "Text": "the Player"
+        },
+        {
+            "BeginOffset": 1339,
+            "EndOffset": 1352,
+            "Score": 0.999998927116394,
+            "Text": "the World Cup"
+        },
+        {
+            "BeginOffset": 1356,
+            "EndOffset": 1392,
+            "Score": 0.9999028444290161,
+            "Text": "Yuvraj Singh.The stylish left-hander"
+        },
+        {
+            "BeginOffset": 1405,
+            "EndOffset": 1418,
+            "Score": 0.9998394846916199,
+            "Text": "skipper Dhoni"
+        },
+        {
+            "BeginOffset": 1424,
+            "EndOffset": 1429,
+            "Score": 0.9975430965423584,
+            "Text": "India"
+        },
+        {
+            "BeginOffset": 1435,
+            "EndOffset": 1443,
+            "Score": 0.9999932646751404,
+            "Text": "the line"
+        },
+        {
+            "BeginOffset": 1449,
+            "EndOffset": 1457,
+            "Score": 0.9999786615371704,
+            "Text": "10 balls"
+        },
+        {
+            "BeginOffset": 1472,
+            "EndOffset": 1492,
+            "Score": 0.9118518233299255,
+            "Text": "the latter remaining"
+        },
+        {
+            "BeginOffset": 1505,
+            "EndOffset": 1507,
+            "Score": 0.9994651675224304,
+            "Text": "91"
+        },
+        {
+            "BeginOffset": 1512,
+            "EndOffset": 1525,
+            "Score": 0.9993590712547302,
+            "Text": "just 79 balls"
+        },
+        {
+            "BeginOffset": 1527,
+            "EndOffset": 1532,
+            "Score": 0.9999957084655762,
+            "Text": "Dhoni"
+        },
+        {
+            "BeginOffset": 1554,
+            "EndOffset": 1559,
+            "Score": 0.999983012676239,
+            "Text": "a six"
+        },
+        {
+            "BeginOffset": 1564,
+            "EndOffset": 1575,
+            "Score": 0.9999993443489075,
+            "Text": "the bowling"
+        },
+        {
+            "BeginOffset": 1579,
+            "EndOffset": 1595,
+            "Score": 0.9999997019767761,
+            "Text": "Nuwan Kulasekara"
+        },
+        {
+            "BeginOffset": 1601,
+            "EndOffset": 1607,
+            "Score": 0.9996953010559082,
+            "Text": "Yuvraj"
+        },
+        {
+            "BeginOffset": 1619,
+            "EndOffset": 1631,
+            "Score": 0.9999995827674866,
+            "Text": "his teammate"
+        },
+        {
+            "BeginOffset": 1635,
+            "EndOffset": 1640,
+            "Score": 0.9999988079071045,
+            "Text": "a hug"
+        },
+        {
+            "BeginOffset": 1644,
+            "EndOffset": 1657,
+            "Score": 0.9999955296516418,
+            "Text": "joyous scenes"
+        },
+        {
+            "BeginOffset": 1684,
+            "EndOffset": 1696,
+            "Score": 0.9999999403953552,
+            "Text": "the memories"
+        },
+        {
+            "BeginOffset": 1700,
+            "EndOffset": 1715,
+            "Score": 0.9999992251396179,
+            "Text": "the Indian fans"
+        }
+    ]

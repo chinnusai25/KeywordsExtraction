@@ -1,0 +1,1148 @@
+['India', 'MS Dhoni', 'Sachin Tendulkar', 'country', 'World Cup', 'ODI', 'Gautam Gambhir', 'few.ri Lanka', 'Yuvraj', 'final', 'title triumph', 'ball', 'teammates', 'partner', 'Indias', 'pavilion', 'start', 'ground', 'Mumbai', 'Wankhede Stadium', 'Lankans', 'Sri Lanka', 'Player', 'Virender Sehwag', 'Thisara Pereras', 'Mahela Jayawardene', 'teammate', 'Virat Kohli', 'fans', 'scenes', 'dismissal', 'Nuwan Kulasekara']
+
+Complete Output:
+
+name: "India"
+type: LOCATION
+metadata {
+  key: "mid"
+  value: "/m/024nj1"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/India_national_cricket_team"
+}
+salience: 0.2868823707103729
+mentions {
+  text {
+    content: "India"
+    begin_offset: 21
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "India"
+    begin_offset: 100
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "India"
+    begin_offset: 564
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "India"
+    begin_offset: 1222
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "India"
+    begin_offset: 222
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "India"
+    begin_offset: 985
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "India"
+    begin_offset: 1081
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "India"
+    begin_offset: 1232
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "India"
+    begin_offset: 1424
+  }
+  type: PROPER
+}
+
+name: "MS Dhoni"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/05p173"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/MS_Dhoni"
+}
+salience: 0.07464390993118286
+mentions {
+  text {
+    content: "MS Dhoni"
+    begin_offset: 212
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "Dhoni"
+    begin_offset: 446
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "Dhoni"
+    begin_offset: 1151
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "Dhoni"
+    begin_offset: 1413
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "skipper"
+    begin_offset: 1405
+  }
+  type: COMMON
+}
+mentions {
+  text {
+    content: "Dhoni"
+    begin_offset: 1527
+  }
+  type: PROPER
+}
+
+name: "Sachin Tendulkar"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/0fszd"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Sachin_Tendulkar"
+}
+salience: 0.07392735034227371
+mentions {
+  text {
+    content: "Sachin Tendulkar"
+    begin_offset: 466
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "Sachin Tendulkar"
+    begin_offset: 888
+  }
+  type: PROPER
+}
+
+name: "home soil"
+type: OTHER
+salience: 0.04998179152607918
+mentions {
+  text {
+    content: "home soil"
+    begin_offset: 48
+  }
+  type: COMMON
+}
+
+name: "euphoria"
+type: OTHER
+salience: 0.04998179152607918
+mentions {
+  text {
+    content: "euphoria"
+    begin_offset: 90
+  }
+  type: COMMON
+}
+
+name: "country"
+type: LOCATION
+salience: 0.04998179152607918
+mentions {
+  text {
+    content: "country"
+    begin_offset: 77
+  }
+  type: COMMON
+}
+
+name: "World Cup"
+type: EVENT
+metadata {
+  key: "mid"
+  value: "/m/030q7"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/FIFA_World_Cup"
+}
+salience: 0.03178282827138901
+mentions {
+  text {
+    content: "World Cup"
+    begin_offset: 35
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "World Cup"
+    begin_offset: 1343
+  }
+  type: PROPER
+}
+
+name: "ODI"
+type: ORGANIZATION
+metadata {
+  key: "mid"
+  value: "/m/021n63"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/One_Day_International"
+}
+salience: 0.027680572122335434
+mentions {
+  text {
+    content: "ODI"
+    begin_offset: 252
+  }
+  type: PROPER
+}
+
+name: "trophy"
+type: OTHER
+salience: 0.02418934740126133
+mentions {
+  text {
+    content: "trophy"
+    begin_offset: 139
+  }
+  type: COMMON
+}
+
+name: "Gautam Gambhir"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/04qmb7"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Gautam_Gambhir"
+}
+salience: 0.018254658207297325
+mentions {
+  text {
+    content: "Gautam Gambhir"
+    begin_offset: 412
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "Gautam Gambhir"
+    begin_offset: 1041
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "Gambhir"
+    begin_offset: 1183
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "Gambhir"
+    begin_offset: 1264
+  }
+  type: PROPER
+}
+
+name: "few.ri Lanka"
+type: PERSON
+salience: 0.010597034357488155
+mentions {
+  text {
+    content: "few.ri Lanka"
+    begin_offset: 543
+  }
+  type: PROPER
+}
+
+name: "moments"
+type: OTHER
+salience: 0.010372797958552837
+mentions {
+  text {
+    content: "moments"
+    begin_offset: 401
+  }
+  type: COMMON
+}
+
+name: "Yuvraj"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/028lkr"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Yuvraj_Singh"
+}
+salience: 0.010342506691813469
+mentions {
+  text {
+    content: "Yuvraj"
+    begin_offset: 1601
+  }
+  type: PROPER
+}
+
+name: "blitz"
+type: OTHER
+salience: 0.010275846347212791
+mentions {
+  text {
+    content: "blitz"
+    begin_offset: 681
+  }
+  type: COMMON
+}
+
+name: "final"
+type: EVENT
+salience: 0.009146050550043583
+mentions {
+  text {
+    content: "final"
+    begin_offset: 298
+  }
+  type: COMMON
+}
+
+name: "title triumph"
+type: EVENT
+salience: 0.009146050550043583
+mentions {
+  text {
+    content: "title triumph"
+    begin_offset: 256
+  }
+  type: COMMON
+}
+
+name: "momentum"
+type: OTHER
+salience: 0.009037918411195278
+mentions {
+  text {
+    content: "momentum"
+    begin_offset: 731
+  }
+  type: COMMON
+}
+
+name: "balls"
+type: OTHER
+salience: 0.008322243578732014
+mentions {
+  text {
+    content: "balls"
+    begin_offset: 699
+  }
+  type: COMMON
+}
+
+name: "ball"
+type: EVENT
+salience: 0.007636631838977337
+mentions {
+  text {
+    content: "ball"
+    begin_offset: 862
+  }
+  type: COMMON
+}
+
+name: "hug"
+type: OTHER
+salience: 0.00762707507237792
+mentions {
+  text {
+    content: "hug"
+    begin_offset: 1637
+  }
+  type: COMMON
+}
+
+name: "teammates"
+type: PERSON
+salience: 0.0070023383013904095
+mentions {
+  text {
+    content: "teammates"
+    begin_offset: 522
+  }
+  type: COMMON
+}
+
+name: "partner"
+type: PERSON
+salience: 0.006472324021160603
+mentions {
+  text {
+    content: "partner"
+    begin_offset: 880
+  }
+  type: COMMON
+}
+
+name: "partnership"
+type: OTHER
+salience: 0.006472324021160603
+mentions {
+  text {
+    content: "partnership"
+    begin_offset: 1021
+  }
+  type: COMMON
+}
+
+name: "Indias"
+type: LOCATION
+metadata {
+  key: "mid"
+  value: "/m/03rk0"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/India"
+}
+salience: 0.006332815624773502
+mentions {
+  text {
+    content: "Indias"
+    begin_offset: 751
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "Indian"
+    begin_offset: 1704
+  }
+  type: PROPER
+}
+
+name: "pavilion"
+type: LOCATION
+salience: 0.006210523657500744
+mentions {
+  text {
+    content: "pavilion"
+    begin_offset: 839
+  }
+  type: COMMON
+}
+
+name: "ndia"
+type: OTHER
+salience: 0.006210523657500744
+mentions {
+  text {
+    content: "ndia"
+    begin_offset: 764
+  }
+  type: COMMON
+}
+
+name: "start"
+type: EVENT
+salience: 0.006210523657500744
+mentions {
+  text {
+    content: "start"
+    begin_offset: 799
+  }
+  type: COMMON
+}
+
+name: "target"
+type: OTHER
+salience: 0.0061515094712376595
+mentions {
+  text {
+    content: "target"
+    begin_offset: 578
+  }
+  type: COMMON
+}
+
+name: "ground"
+type: LOCATION
+salience: 0.0061515094712376595
+mentions {
+  text {
+    content: "ground"
+    begin_offset: 508
+  }
+  type: COMMON
+}
+
+name: "knock"
+type: OTHER
+salience: 0.005928817670792341
+mentions {
+  text {
+    content: "knock"
+    begin_offset: 439
+  }
+  type: COMMON
+}
+
+name: "balls"
+type: OTHER
+salience: 0.0057327402755618095
+mentions {
+  text {
+    content: "balls"
+    begin_offset: 1452
+  }
+  type: COMMON
+}
+
+name: "backfoot."
+type: OTHER
+salience: 0.005685761105269194
+mentions {
+  text {
+    content: "backfoot."
+    begin_offset: 998
+  }
+  type: COMMON
+}
+
+name: "Mumbai"
+type: LOCATION
+metadata {
+  key: "mid"
+  value: "/m/04vmp"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Mumbai"
+}
+salience: 0.005410037003457546
+mentions {
+  text {
+    content: "Mumbai"
+    begin_offset: 331
+  }
+  type: PROPER
+}
+
+name: "Wankhede Stadium"
+type: LOCATION
+metadata {
+  key: "mid"
+  value: "/m/05f74n"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Wankhede_Stadium"
+}
+salience: 0.005410037003457546
+mentions {
+  text {
+    content: "Wankhede Stadium"
+    begin_offset: 311
+  }
+  type: PROPER
+}
+
+name: "latter"
+
+type: OTHER
+salience: 0.00527147063985467
+mentions {
+  text {
+    content: "latter"
+    begin_offset: 1476
+  }
+  type: COMMON
+}
+
+name: "Lankans"
+type: PERSON
+salience: 0.004639921244233847
+mentions {
+  text {
+    content: "Lankans"
+    begin_offset: 719
+  }
+  type: PROPER
+}
+
+name: "Sri Lanka"
+type: LOCATION
+metadata {
+  key: "mid"
+  value: "/m/06m_5"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Sri_Lanka"
+}
+salience: 0.0045000421814620495
+mentions {
+  text {
+    content: "Sri Lanka"
+    begin_offset: 281
+  }
+  type: PROPER
+}
+
+name: "left-hander"
+type: OTHER
+salience: 0.004277060739696026
+mentions {
+  text {
+    content: "left-hander"
+    begin_offset: 1381
+  }
+  type: COMMON
+}
+
+name: "line"
+type: OTHER
+salience: 0.004277060739696026
+mentions {
+  text {
+    content: "line"
+    begin_offset: 1439
+  }
+  type: COMMON
+}
+
+name: "Player"
+type: PERSON
+salience: 0.004277060739696026
+mentions {
+  text {
+    content: "Player"
+    begin_offset: 1329
+  }
+  type: COMMON
+}
+
+name: "balls"
+type: OTHER
+salience: 0.0040132394060492516
+mentions {
+  text {
+    content: "balls"
+    begin_offset: 1520
+  }
+  type: COMMON
+}
+
+name: "six"
+type: OTHER
+salience: 0.0037306821905076504
+mentions {
+  text {
+    content: "six"
+    begin_offset: 1556
+  }
+  type: COMMON
+}
+
+name: "Virender Sehwag"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/02gbb7"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Virender_Sehwag"
+}
+salience: 0.0036720100324600935
+mentions {
+  text {
+    content: "Virender Sehwag"
+    begin_offset: 810
+  }
+  type: PROPER
+}
+
+name: "Thisara Pereras"
+type: PERSON
+salience: 0.0036720100324600935
+mentions {
+  text {
+    content: "Thisara Pereras"
+    begin_offset: 660
+  }
+  type: PROPER
+}
+
+name: "Mahela Jayawardene"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/04cc9_"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Mahela_Jayawardene"
+}
+salience: 0.003637085435912013
+mentions {
+  text {
+    content: "Mahela Jayawardene"
+    begin_offset: 590
+  }
+  type: PROPER
+}
+
+name: "teammate"
+type: PERSON
+salience: 0.0034027202054858208
+mentions {
+  text {
+    content: "teammate"
+    begin_offset: 1623
+  }
+  type: COMMON
+}
+
+name: "Virat Kohli"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/03qkvyf"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Virat_Kohli"
+}
+salience: 0.003379514906555414
+mentions {
+  text {
+    content: "Virat Kohli"
+    begin_offset: 1060
+  }
+  type: PROPER
+}
+mentions {
+  text {
+    content: "Kohli"
+    begin_offset: 1132
+  }
+  type: PROPER
+}
+
+name: "fans"
+type: PERSON
+salience: 0.002988788764923811
+mentions {
+  text {
+    content: "fans"
+    begin_offset: 1711
+  }
+  type: COMMON
+}
+
+name: "bowling"
+type: OTHER
+salience: 0.002988788764923811
+mentions {
+  text {
+    content: "bowling"
+    begin_offset: 1568
+  }
+  type: COMMON
+}
+
+name: "scenes"
+type: WORK_OF_ART
+salience: 0.002988788764923811
+mentions {
+  text {
+    content: "scenes"
+    begin_offset: 1651
+  }
+  type: COMMON
+}
+
+name: "memories"
+type: OTHER
+salience: 0.002988788764923811
+mentions {
+  text {
+    content: "memories"
+    begin_offset: 1688
+  }
+  type: COMMON
+}
+
+name: "stand"
+type: OTHER
+salience: 0.0022050419356673956
+mentions {
+  text {
+    content: "stand"
+    begin_offset: 1208
+  }
+  type: COMMON
+}
+
+name: "dismissal"
+type: EVENT
+salience: 0.001878982875496149
+mentions {
+  text {
+    content: "dismissal"
+    begin_offset: 1140
+  }
+  type: COMMON
+}
+
+name: "distance"
+type: OTHER
+salience: 0.001878982875496149
+mentions {
+  text {
+    content: "distance"
+    begin_offset: 1254
+  }
+  type: COMMON
+}
+
+name: "contest."
+type: OTHER
+salience: 0.001878982875496149
+mentions {
+  text {
+    content: "contest."
+    begin_offset: 1118
+  }
+  type: COMMON
+}
+
+name: "Nuwan Kulasekara"
+type: PERSON
+metadata {
+  key: "mid"
+  value: "/m/03mk7q"
+}
+metadata {
+  key: "wikipedia_url"
+  value: "https://en.wikipedia.org/wiki/Nuwan_Kulasekara"
+}
+salience: 0.0017662873724475503
+mentions {
+  text {
+    content: "Nuwan Kulasekara"
+    begin_offset: 1579
+  }
+  type: PROPER
+}
+
+name: "2011"
+type: DATE
+metadata {
+  key: "year"
+  value: "2011"
+}
+mentions {
+  text {
+    content: "2011"
+    begin_offset: 15
+  }
+}
+
+name: "1983"
+type: DATE
+metadata {
+  key: "year"
+  value: "1983"
+}
+mentions {
+  text {
+    content: "1983"
+    begin_offset: 149
+  }
+}
+
+name: "April 2, 2011"
+type: DATE
+metadata {
+  key: "day"
+  value: "2"
+}
+metadata {
+  key: "month"
+  value: "4"
+}
+metadata {
+  key: "year"
+  value: "2011"
+}
+mentions {
+  text {
+    content: "April 2, 2011"
+    begin_offset: 341
+  }
+}
+
+name: "9"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "9"
+}
+mentions {
+  text {
+    content: "9"
+    begin_offset: 697
+  }
+}
+
+name: "2011"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "2011"
+}
+mentions {
+  text {
+    content: "2011"
+    begin_offset: 15
+  }
+}
+
+name: "109"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "109"
+}
+mentions {
+  text {
+    content: "109"
+    begin_offset: 1200
+  }
+}
+
+name: "six"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "6"
+}
+mentions {
+  text {
+    content: "six"
+    begin_offset: 1556
+  }
+}
+
+name: "22"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "22"
+}
+mentions {
+  text {
+    content: "22"
+    begin_offset: 690
+  }
+}
+
+name: "1983"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "1983"
+}
+mentions {
+  text {
+    content: "1983"
+    begin_offset: 149
+  }
+}
+
+name: "six"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "6"
+}
+mentions {
+  text {
+    content: "six"
+    begin_offset: 461
+  }
+}
+
+name: "274"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "274"
+}
+mentions {
+  text {
+    content: "274"
+    begin_offset: 647
+  }
+}
+
+name: "2"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "2"
+}
+mentions {
+  text {
+    content: "2"
+    begin_offset: 347
+  }
+}
+
+name: "2011"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "2011"
+}
+mentions {
+  text {
+    content: "2011"
+    begin_offset: 350
+  }
+}
+
+name: "79"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "79"
+}
+mentions {
+  text {
+    content: "79"
+    begin_offset: 1517
+  }
+}
+
+name: "six"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "6"
+}
+mentions {
+  text {
+    content: "six"
+    begin_offset: 655
+  }
+}
+
+name: "7"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "7"
+}
+mentions {
+  text {
+    content: "7"
+    begin_offset: 969
+  }
+}
+
+name: "83"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "83"
+}
+mentions {
+  text {
+    content: "83"
+    begin_offset: 1014
+  }
+}
+
+name: "10"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "10"
+}
+mentions {
+  text {
+    content: "10"
+    begin_offset: 1449
+  }
+}
+
+name: "91"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "91"
+}
+mentions {
+  text {
+    content: "91"
+    begin_offset: 1505
+  }
+}
+
+name: "three"
+type: NUMBER
+metadata {
+  key: "value"
+  value: "3"
+}
+mentions {
+  text {
+    content: "three"
+    begin_offset: 1277
+  }
+}
