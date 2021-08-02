@@ -3,7 +3,20 @@ from google.cloud import language_v1
 from google.cloud.language_v1 import enums
 import os
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = './gnp/nlp-test-ad8ad9f5347e.json'
+credentials = {
+  "type": "service_account",
+  "project_id": "XXXXXXX",
+  "private_key_id": "XXXXXXX",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nXXXXXXX\n-----END PRIVATE KEY-----\n",
+  "client_email": "XXXXXXX",
+  "client_id": "XXXXXXX",
+  "auth_uri": "XXXXXXX",
+  "token_uri": "XXXXXXX",
+  "auth_provider_x509_cert_url": "XXXXXXX",
+  "client_x509_cert_url": "XXXXXXX"
+}
+
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credentials
 
 client = language_v1.LanguageServiceClient()
 type_ = enums.Document.Type.PLAIN_TEXT
